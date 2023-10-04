@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/QtTestTask">
+        <file alias="Plane.png">res/Plane.png</file>
+    </qresource>
+</RCC>
