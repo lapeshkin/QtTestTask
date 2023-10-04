@@ -1,8 +1,9 @@
 #include "QtTestTask.h"
 #include <QtWidgets/QApplication>
 
+// Visual Leak Detector
 #ifdef _DEBUG
-#include <vld.h>
+//#include <vld.h>
 #endif
 
 int main(int argc, char *argv[])
